@@ -1,5 +1,9 @@
 # Steam Wallet History
-Find total amount spent and received in your steam wallet. 
+Find total amount you've spent and received via Steam Wallet.
+
+Limitations: 
+* Does not work when more than one currency is involved.
+* Excludes external funds. To find external funds, go to https://help.steampowered.com/en/accountdata/AccountSpend 
 
 Instructions:
 
