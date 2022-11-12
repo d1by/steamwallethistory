@@ -3,7 +3,9 @@ Find total amount you've spent and received via Steam Wallet.
 
 Limitations: 
 * Does not work when more than one currency is involved.
-* Excludes external funds. To find external funds, go to https://help.steampowered.com/en/accountdata/AccountSpend 
+* Excludes external funds. To find external funds, go to https://help.steampowered.com/en/accountdata/AccountSpend
+* Issues when commas are involved
+* sometimes decides to stop working, i still have no clue why. i'll edit this when i figure it out
 
 Instructions:
 
